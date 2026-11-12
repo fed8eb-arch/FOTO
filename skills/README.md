@@ -1,0 +1,67 @@
+# Все 60 скиллов проекта FIRST PROJECT (ПРОМПОЛ777)
+
+- `skills/` — 60 скиллов с ПК; 5 обрезанных (10k-websites, marketing-plan, ai-seo, affiliate-commission-structure, developer-community-moderation) заменены восстановленными полными версиями.
+- `bot-skills/` — скиллы, созданные в ходе работы: premium-web-design, agent-supervisor.
+- refero-design и GSAP-скиллы встроенные, файлами не экспортируются.
+
+## Список
+- 10k-websites
+- affiliate-commission-structure
+- ai-seo
+- analytics
+- bookkeeping-categorization
+- build-competitive-brief
+- campaign-plan
+- community-marketing
+- competitor-teardown
+- contagious
+- content-strategy
+- conversion-tracker
+- copywriting
+- crossing-the-chasm
+- data-financial-analysis
+- deploy-checklist
+- developer-community-moderation
+- digital-products
+- domain-uptime-monitor
+- financial-unit-economics
+- fitzpatrick-mom-test
+- grad-disruptive-innovation
+- grad-innovation-diffusion-bass
+- grad-network-economics
+- grad-platform-economics
+- hallmark
+- idea-to-plan
+- inventory-manager
+- kpi-dashboard
+- launch
+- lead-triage
+- lifecycle-play-advisor
+- market-research-reports
+- market-sizing-analysis
+- marketing-plan
+- onboarding
+- outreach-composer
+- pricing
+- privacy-policy
+- product-marketing
+- programmatic-seo
+- read-the-numbers
+- referrals
+- sales-enablement
+- sales-funnel-blueprint
+- sales-reporting-dashboard
+- schema
+- security-and-hardening
+- security-baseline
+- seo-audit
+- seo-content-brief
+- setup-windows-dev
+- social
+- studio
+- subscription-billing
+- support-operations
+- traffic-kit
+- video
+- youtube-analysis
+- youtube-to-skill
